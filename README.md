@@ -2,8 +2,8 @@
 
 ## Codelab 🧪 Implementing a REST API Service
 
-Implement different REST API Services to support a store products management system, implementing each CRUD Operation
-with Pagination for each service (Users and Products):
+
+Implement different REST API Services to support a store products management system, implementing each CRUD Operation with Pagination for each service (Users and Products):
 
 - Create
 - Read
