@@ -1,7 +1,4 @@
-<img align="right" src="https://github.com/ada-school/module-template/blob/main/ada.png">
-
-## Codelab 🧪 Implementing a REST API Service
-
+# Codelab 🧪 Implementing a REST API Service
 
 Implement different REST API Services to support a store products management system, implementing each CRUD Operation with Pagination for each service (Users and Products):
 
@@ -26,9 +23,9 @@ the [Level 2 - HTTP Verbs of Richardson Maturity Model](https://martinfowler.com
 
 **Learning Objectives**
 
-- [ ]  Use the Richardson Maturity Model to implement a REST API Service.
-- [ ]  Implement a REST API Service using Spring Boot.
-- [ ]  Implement CRUD Operations.
+- [x]  Use the Richardson Maturity Model to implement a REST API Service.
+- [x]  Implement a REST API Service using Spring Boot.
+- [x]  Implement CRUD Operations.
 
 ## Detail Orientation 🤹🏽
 
@@ -36,14 +33,61 @@ Good code is about details. Follow each step carefully and make sure your code i
 
 **Main Topics**
 
-* Microservices.
-* REST API.
-* MongoDB.
-* Java.
-* Spring Boot.
+- Microservices.
+- REST API.
+- MongoDB.
+- Java.
+- Spring Boot.
 
 ## Codelab 🧪
 
 🗣️ "I hear and I forget I see and I remember I do and I understand." Confucius
 
+## Getting Started 🚀
 
+To get started, you need to have the following installed:
+
+### Prerequisites 📋
+
+You need to have the following installed:
+
+- [Git](https://git-scm.com/) - Version Control System
+- [Java](https://www.oracle.com/java/technologies/downloads/#java17) - Programming Language
+
+
+> [!IMPORTANT]
+> It is important to have the above installed before you proceed.
+
+### Installing 🔧
+
+Do the following to get started:
+
+```bash
+git clone https://github.com/ELS4NTA/IETI-SWAGGER.git
+cd IETI-SWAGGER/
+
+```
+
+## Running the application 🏃🏽‍♂️
+
+To run the application, do the following:
+
+```bash
+./gradlew bootRun
+
+```
+
+The documentation of API will be available at [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+
+### Running the tests ⚗️
+
+To run the tests, do the following:
+
+```bash
+./gradlew test
+
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
