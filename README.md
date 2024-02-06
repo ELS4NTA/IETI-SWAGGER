@@ -77,6 +77,12 @@ To run the application, do the following:
 
 ```
 
+![image](https://github.com/ELS4NTA/IETI-SWAGGER/assets/99996670/47288353-c0ec-4918-8285-4d5ebc4c4f31)
+
+![image](https://github.com/ELS4NTA/IETI-SWAGGER/assets/99996670/ce914c46-66e4-41fe-9dbf-a0226b5bfec3)
+
+
+
 The documentation of API will be available at [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
 ### Running the tests ⚗️
